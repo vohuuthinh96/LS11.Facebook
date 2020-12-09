@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LS11.Facebook</string>
+    <string name="facebook_app_id">182765783494431</string> <string name="fb_login_protocol_scheme">fb182765783494431</string>
+
+</resources>
